@@ -2,9 +2,6 @@
 For challance recuitment 
 
 
-# tesc_Skuberg
-For Skuberg  recuiting challance
-
 Dev base on xampp
 
 -install xampp;
