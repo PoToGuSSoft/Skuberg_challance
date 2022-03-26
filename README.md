@@ -44,3 +44,4 @@ Dev base on xampp
  
  php artisan db:seed
  
+P.S. *** password for test user : 'password' ***
